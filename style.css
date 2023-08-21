@@ -3,6 +3,9 @@ html {
   padding: 0;
 }
 
+.container {
+margin-top: 20px;
+}
 
 body {
   font-family: 'Bellota', cursive;
